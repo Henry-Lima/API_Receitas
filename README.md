@@ -1,1 +1,1 @@
-# Laravel_07-04
+teste no postman/ingredientes/rota destroy.png
